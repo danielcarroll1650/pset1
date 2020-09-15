@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/csci-e-29/2020fa-pset-1-danielcarroll1650.svg?token=kfw4ptpCtm4kYmb7fSWT&branch=master)](https://travis-ci.com/csci-e-29/2020fa-pset-1-danielcarroll1650)
+
 # Pset 1
 
 ## Objectives
