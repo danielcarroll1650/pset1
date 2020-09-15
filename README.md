@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.com/csci-e-29/2020fa-pset-1-danielcarroll1650.svg?token=kfw4ptpCtm4kYmb7fSWT&branch=master)](https://travis-ci.com/csci-e-29/2020fa-pset-1-danielcarroll1650)
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/815584cae85183217d86/maintainability)](https://codeclimate.com/github/danielcarroll1650/pset1/maintainability)
 
+[![Test Coverage](https://api.codeclimate.com/v1/badges/815584cae85183217d86/test_coverage)](https://codeclimate.com/github/danielcarroll1650/pset1/test_coverage)
 
 # Pset 1
 
