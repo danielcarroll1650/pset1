@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/csci-e-29/2020fa-pset-1-danielcarroll1650.svg?token=kfw4ptpCtm4kYmb7fSWT&branch=master)](https://travis-ci.com/csci-e-29/2020fa-pset-1-danielcarroll1650)
+[![Build Status](https://travis-ci.com/danielcarroll1650/pset1.svg?branch=master)](https://travis-ci.com/danielcarroll1650/pset1)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/815584cae85183217d86/maintainability)](https://codeclimate.com/github/danielcarroll1650/pset1/maintainability)
 
